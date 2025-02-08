@@ -61,4 +61,4 @@ jobs:
           app-name: 'api-tcc'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66F7B7F5BE1643D8BC980CDCE368501B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6B74DF4E44A48E88061B3992DB97A63 }}
